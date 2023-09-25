@@ -10,6 +10,7 @@ import Home from './Home/Home';
 import Root from './Root/Root';
 import Donation from './Donation/Donation';
 import Statistics from './Statistics/Statistics';
+import DonationPage from './DonationPage/DonationPage';
 
 
 const router = createBrowserRouter([
@@ -29,6 +30,12 @@ const router = createBrowserRouter([
     {
       path:'/state',
       element: <Statistics></Statistics>
+    },
+
+    {
+      path:'/Donate/:id',
+      element: <DonationPage></DonationPage>,
+      loader: ()=> fetch('/donation.json')
     }
     ]
   },
