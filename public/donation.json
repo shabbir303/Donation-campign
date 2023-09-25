@@ -4,83 +4,134 @@
       "titleName": "Health",
       "title": "Clean water for children",
       "backgroundColor": "#0052ff26",
-      "textColor": "#0052FF"
+      "textColor": "#0052FF",
+      "textBackground":"#0052ff33",
+      "donationAmount":350 ,
+      "description":"Supporting health donation is a crucial way to improve healthcare access and save lives. Your contribution can provide essential resources, such as medical supplies, vaccines, or funding for research. By donating to health initiatives, you empower organizations to tackle diseases, promote well-being, and advance medical breakthroughs. Your generosity makes a meaningful impact on the health and happiness of individuals and communities in need." ,
+      "donateImage":"https://i.ibb.co/4Y8n018/Health.png"
+      
     },
     {
       "image": "https://i.ibb.co/12rXTxL/Rectangle-4287-1.png",
       "titleName": "Education",
       "title": "Good education",
       "backgroundColor": "#ff444a26",
-      "textColor": "#FF444A"
+      "textColor": "#FF444A",
+      "textBackground": "#ff444a33",
+      "description":"There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
+      "donationAmount":290,
+      "donateImage":"https://i.ibb.co/ZNWJb5v/Education.png"
     },
     {
       "image": "https://i.ibb.co/XyJ0KQ5/Rectangle-4287.png",
       "titleName": "Clothing",
       "title": "Used Clothing Drive",
       "backgroundColor": "#79c23f26",
-      "textColor": "#79C23F"
+      "textColor": "#79C23F",
+      "textBackground": "#79c23f33",
+      "donationAmount": 250,
+      "description": "Donating clothing is a compassionate act that extends a helping hand to those in need. Your contributions provide warmth, comfort, and dignity to individuals facing hardship. Gently used or new garments can make a significant difference, offering protection from the elements and boosting self-esteem. By supporting clothing donations, you're fostering a sense of community and ensuring that everyone has access to the basics for a better life.",
+      "donateImage":"https://i.ibb.co/MBLG1Ps/Clothing.png"
     },
     {
       "image": "https://i.ibb.co/1Gmpjq1/Rectangle-4287-2.png",
       "titleName": "Food",
       "title": "Better Food for Everyone",
       "backgroundColor": "#f8714726",
-      "textColor": "#F87147"
+      "textColor": "#F87147",
+      "textBackground":"#f8714733",
+      "donationAmount": 400,
+      "description": "Food donations are a lifeline for countless individuals and families struggling with hunger. Your generosity can provide nourishment, sustenance, and hope. Whether it's non-perishables or fresh produce, your contributions help combat food insecurity and improve lives. By participating in food donation efforts, you play a vital role in ensuring that no one goes to bed hungry, fostering stronger, more resilient communities for all.",
+      "donateImage":"https://i.ibb.co/TtLSPLm/Food.png"
     },
     {
       "image": "https://i.ibb.co/1Gmpjq1/Rectangle-4287-2.png",
       "titleName": "Food",
       "title": "Better Food for Everyone",
       "backgroundColor": "#f8714726",
-      "textColor": "#F87147"
+      "textColor": "#F87147",
+      "textBackground":"#f8714733",
+      "donationAmount": 400,
+      "description": "Food donations are a lifeline for countless individuals and families struggling with hunger. Your generosity can provide nourishment, sustenance, and hope. Whether it's non-perishables or fresh produce, your contributions help combat food insecurity and improve lives. By participating in food donation efforts, you play a vital role in ensuring that no one goes to bed hungry, fostering stronger, more resilient communities for all.",
+      "donateImage":"https://i.ibb.co/TtLSPLm/Food.png"
     },
     {
       "image": "https://i.ibb.co/XyJ0KQ5/Rectangle-4287.png",
       "titleName": "Clothing",
       "title": "Used Clothing Drive",
       "backgroundColor": "#79c23f26",
-      "textColor": "#79C23F"
+      "textColor": "#79C23F",
+      "textBackground": "#79c23f33",
+      "donationAmount": 250,
+      "description": "Donating clothing is a compassionate act that extends a helping hand to those in need. Your contributions provide warmth, comfort, and dignity to individuals facing hardship. Gently used or new garments can make a significant difference, offering protection from the elements and boosting self-esteem. By supporting clothing donations, you're fostering a sense of community and ensuring that everyone has access to the basics for a better life.",
+      "donateImage":"https://i.ibb.co/MBLG1Ps/Clothing.png"
     },
     {
       "image": "https://i.ibb.co/12rXTxL/Rectangle-4287-1.png",
       "titleName": "Education",
       "title": "Good education",
       "backgroundColor": "#ff444a26",
-      "textColor": "#FF444A"
+      "textColor": "#FF444A",
+      "textBackground": "#ff444a33",
+      "description":"There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
+      "donationAmount":290,
+      "donateImage":"https://i.ibb.co/ZNWJb5v/Education.png"
     },
     {
       "image": "https://i.ibb.co/tm8g7jZ/Rectangle-4284.png",
       "titleName": "Health",
       "title": "Clean water for children",
       "backgroundColor": "#0052ff26",
-      "textColor": "#0052FF"
+      "textColor": "#0052FF",
+      "textBackground":"#0052ff33",
+      "donationAmount":350 ,
+      "description":"Supporting health donation is a crucial way to improve healthcare access and save lives. Your contribution can provide essential resources, such as medical supplies, vaccines, or funding for research. By donating to health initiatives, you empower organizations to tackle diseases, promote well-being, and advance medical breakthroughs. Your generosity makes a meaningful impact on the health and happiness of individuals and communities in need." ,
+      "donateImage":"https://i.ibb.co/4Y8n018/Health.png"
+      
     },
     {
       "image": "https://i.ibb.co/tm8g7jZ/Rectangle-4284.png",
       "titleName": "Health",
       "title": "Clean water for children",
       "backgroundColor": "#0052ff26",
-      "textColor": "#0052FF"
+      "textColor": "#0052FF",
+      "textBackground":"#0052ff33",
+      "donationAmount":350 ,
+      "description":"Supporting health donation is a crucial way to improve healthcare access and save lives. Your contribution can provide essential resources, such as medical supplies, vaccines, or funding for research. By donating to health initiatives, you empower organizations to tackle diseases, promote well-being, and advance medical breakthroughs. Your generosity makes a meaningful impact on the health and happiness of individuals and communities in need." ,
+      "donateImage":"https://i.ibb.co/4Y8n018/Health.png"
+      
     },
     {
       "image": "https://i.ibb.co/12rXTxL/Rectangle-4287-1.png",
       "titleName": "Education",
       "title": "Good education",
       "backgroundColor": "#ff444a26",
-      "textColor": "#FF444A"
+      "textColor": "#FF444A",
+      "textBackground": "#ff444a33",
+      "description":"There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
+      "donationAmount":290,
+      "donateImage":"https://i.ibb.co/ZNWJb5v/Education.png"
     },
     {
       "image": "https://i.ibb.co/XyJ0KQ5/Rectangle-4287.png",
       "titleName": "Clothing",
       "title": "Used Clothing Drive",
       "backgroundColor": "#79c23f26",
-      "textColor": "#79C23F"
+      "textColor": "#79C23F",
+      "textBackground": "#79c23f33",
+      "donationAmount": 250,
+      "description": "Donating clothing is a compassionate act that extends a helping hand to those in need. Your contributions provide warmth, comfort, and dignity to individuals facing hardship. Gently used or new garments can make a significant difference, offering protection from the elements and boosting self-esteem. By supporting clothing donations, you're fostering a sense of community and ensuring that everyone has access to the basics for a better life.",
+      "donateImage":"https://i.ibb.co/MBLG1Ps/Clothing.png"
     },
     {
       "image": "https://i.ibb.co/1Gmpjq1/Rectangle-4287-2.png",
       "titleName": "Food",
       "title": "Better Food for Everyone",
       "backgroundColor": "#f8714726",
-      "textColor": "#F87147"
+      "textColor": "#F87147",
+      "textBackground":"#f8714733",
+      "donationAmount": 400,
+      "description": "Food donations are a lifeline for countless individuals and families struggling with hunger. Your generosity can provide nourishment, sustenance, and hope. Whether it's non-perishables or fresh produce, your contributions help combat food insecurity and improve lives. By participating in food donation efforts, you play a vital role in ensuring that no one goes to bed hungry, fostering stronger, more resilient communities for all.",
+      "donateImage":"https://i.ibb.co/TtLSPLm/Food.png"
     }
   ]
