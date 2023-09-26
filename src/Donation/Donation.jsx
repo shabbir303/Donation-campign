@@ -1,3 +1,4 @@
+/* eslint-disable react/jsx-key */
 import { useEffect, useState } from "react";
 import DonateList from "../DonateList/DonateList";
 
@@ -29,7 +30,7 @@ const Donation = () => {
 
             </div>
 
-            <div className={dataLength===donationList.length?"hidden":'show' }>
+            <div className={dataLength==donationList.length||noFound||donationList.length<4 ?"hidden":'' }>
                 <button onClick ={()=>setDataLenth(donationList.length)}
                 className="btn flex justify-center items-center mt-[40px] text-center mx-auto text-white bg-gradient-to-r from-slate-900 to-slate-700 " >Show more </button>
             </div>
