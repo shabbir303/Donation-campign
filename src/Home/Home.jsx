@@ -17,7 +17,7 @@ const Home = () => {
       <div className="hero min-h-[500px]  relative bg-[url(https://i.ibb.co/QmRtn1n/fc1f79e18cdc1a12320b9b10ec3e253d.jpg)] opacity-10  ">
 
       </div>
-      <h1 className=" mt-[-280px] lg:mt-[-400px] right-[10px] left-[30px]  lg:right-[600px] z-10 absolute text-[25px] font-[700] lg:text-[48px] lg:font-[700] ">I Grow By Helping People In Need</h1>
+      <h1 className=" mt-[-280px] lg:mt-[-400px] right-[10px] left-[30px] lg:left-[550px]  lg:right-[500px] z-10 absolute text-[25px] font-[700] lg:text-[48px] lg:font-[700] ">I Grow By Helping People In Need</h1>
       <div className=" flex flex-row lg:flex-row items-center mt-[-200px] lg:mt-[-300px] right-[100px] lg:right-[750px]  absolute">
 
         <input type="search" name="" id="" placeholder="search here..." className="border-[1px] p-[10px] z-10 w-[200px] lg:w-[400px] " />

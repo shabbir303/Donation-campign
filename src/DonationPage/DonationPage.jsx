@@ -22,7 +22,7 @@ const DonationPage = () => {
 
    
     return (
-        <div>
+        <div >
             <EachDonate eachDonate={singleDonate} ></EachDonate>
         </div>
     );
