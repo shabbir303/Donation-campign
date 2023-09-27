@@ -23,8 +23,8 @@ const Statistics = () => {
   
 
   const data = [
-      { name: 'Group A', value: totalData.length},
-      { name: 'Group B', value: localStorageData.length },
+      { name: 'Total Donation', value: totalData.length},
+      { name: 'Your Donation', value: localStorageData.length },
 
     ];
 
