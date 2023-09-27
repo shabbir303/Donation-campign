@@ -33,7 +33,7 @@ const Statistics = () => {
 
 
   const RADIAN = Math.PI / 180;
-  const renderCustomizedLabel = ({ cx, cy, midAngle, innerRadius, outerRadius, percent, index }) => {
+  const renderCustomizedLabel = ({ cx, cy, midAngle, innerRadius, outerRadius, percent, }) => {
     const radius = innerRadius + (outerRadius - innerRadius) * 0.5;
     const x = cx + radius * Math.cos(-midAngle * RADIAN);
     const y = cy + radius * Math.sin(-midAngle * RADIAN);
@@ -69,7 +69,7 @@ const Statistics = () => {
         </PieChart>
       </ResponsiveContainer>
 
-      <div className="flex justify-center items-center gap-10 ">
+      <div className=" flex flex-col md:flex-row lg:flex-row justify-center items-center gap-4 md:gap-7 lg:gap-10 ">
         <div className="flex justify-center items-center gap-2">
           <h1>Your Donation</h1>
           <div className="bg-[#00C49F] w-[100px] h-[12px] "></div>
