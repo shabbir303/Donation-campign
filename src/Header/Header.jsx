@@ -29,7 +29,7 @@ const Header = () => {
               {links}
             </ul>
           </div>
-          <img src="../../public/image/Logo.png" alt="" srcset="" />
+          <img src="/image/Logo.png" alt="" srcset="" />
         </div>
         <div className="navbar-end hidden lg:flex">
           <ul className="menu menu-horizontal px-1">
