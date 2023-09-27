@@ -28,22 +28,6 @@ const Statistics = () => {
 
     ];
 
-
-  //   console.log(totalData);
-
-
-  // const totalJsonValue = totalData.reduce((total, item) => total + item.value, 0 );
-  // console.log(totalJsonValue);
-  // const totalValue = totalJsonValue + localStorageData.filter((total, item) => total + item.value, 0);
-  // console.log(totalValue)
-  // const combinedData = [...totalData, ...localStorageData];
-  // console.log(combinedData)
-  // const dataWithPercentage = combinedData.map((entry) => ({
-  //   ...entry,
-    
-  //   percentage: (entry.value / totalValue) * 100
-    
-  // }));
   
   const COLORS = ['#FF444A', '#00C49F'];
 

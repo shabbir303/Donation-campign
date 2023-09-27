@@ -18,7 +18,7 @@ const Header = () => {
 
   return (
     <div>
-      <div className="navbar bg-base-100">
+      <div className="navbar bg-base-100 w-[80%] mx-auto">
 
         <div className="navbar-start">
           <div className="dropdown">

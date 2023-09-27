@@ -18,11 +18,18 @@ const Donation = () => {
         }
     }, [])
     console.log(donationList);
+
+    const handleRemove=()=>{
+        localStorage.clear();
+        setDonationList([]);
+        setNoFound('No Data Found')
+    }
+
     return (
         <div>
             {noFound?<p className="h-[80vh] flex justify-center items-center text-[60px] font-[700] ">{noFound} </p>:<div></div> }
 
-
+            {donationList.length>0 && <button onClick={handleRemove} className="btn flex justify-center items-center text-white mx-auto mb-8 bg-gradient-to-r from-emerald-500 to-emerald-900 " >Delete All Item</button> }
             <div className="w-[80%] grid grid-cols-2 mx-auto gap-[20px] ">
             {
               donationList.slice(0, dataLength) .map(donate=><DonateList donateList={donate}  ></DonateList> )
